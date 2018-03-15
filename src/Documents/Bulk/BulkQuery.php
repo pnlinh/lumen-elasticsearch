@@ -11,7 +11,7 @@ class BulkQuery
     /**
      * @var BulkAction[]
      */
-    private $actions;
+    private $actions = [];
 
     /**
      * @var int
